@@ -15,9 +15,8 @@ sections:
     backgroundSize: full
     title: Andrew Le
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I aim to make a difference by building products that creatively use the
+      latest tech to solve real-world problems.
     styles:
       self:
         height: auto
